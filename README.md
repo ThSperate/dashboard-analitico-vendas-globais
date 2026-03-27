@@ -62,5 +62,8 @@ Este dashboard permite:
 
 ## 👨‍💻 Autor
 
-Thiago Sperate  
-Analista de Dados 😎
+Thiago Sperate 😎  
+Analista de Dados 📊  
+
+📎 LinkedIn: https://www.linkedin.com/in/thiagosperate/  
+📁 Portfólio: https://github.com/ThSperate
