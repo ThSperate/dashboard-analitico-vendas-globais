@@ -1,12 +1,12 @@
 # 📊 Dashboard Analítico de Vendas Globais
 
-Projeto desenvolvido em Power BI para análise de vendas globais, com foco na geração de insights estratégicos para tomada de decisão.
-
----
-
 ![Dashboard de Vendas Globais](Lab1.png)
 
 📄 [Baixar versão em PDF](Lab01.pdf)
+
+Projeto desenvolvido em Power BI para análise de vendas globais, com foco na geração de insights estratégicos para tomada de decisão.
+
+---
 
 ## 🎯 Objetivo
 
