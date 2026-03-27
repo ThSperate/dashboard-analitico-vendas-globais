@@ -1,8 +1,12 @@
 # 📊 Dashboard Analítico de Vendas Globais
 
-Projeto desenvolvido em Power BI com foco na análise de vendas globais e geração de insights para tomada de decisão.
+Projeto desenvolvido em Power BI para análise de vendas globais, com foco na geração de insights estratégicos para tomada de decisão.
 
 ---
+
+![Dashboard de Vendas Globais](Lab1.png)
+
+📄 [Baixar versão em PDF](Lab1.pdf)
 
 ## 🎯 Objetivo
 
@@ -22,16 +26,21 @@ Analisar o desempenho de vendas e identificar padrões por categoria, país, des
 
 ## 📈 Principais Insights
 
-* Volume total de vendas superior a 10 milhões
-* Categoria com maior participação: Suprimentos
-* Alta concentração de vendas em países como Estados Unidos
-* Diferenças relevantes de desconto entre subcategorias
+- Total de vendas superior a 10 milhões
+- Categoria "Suprimentos" representa a maior fatia de vendas
+- Estados Unidos lidera em volume de pedidos
+- Subcategorias como Tables apresentam maiores médias de desconto
 
 ---
 
-## 📷 Preview do Dashboard
+## 💡 Valor para o Negócio
 
-![Dashboard de Vendas Globais](Lab1.png)
+Este dashboard permite:
+
+- Identificar categorias mais rentáveis
+- Analisar performance de vendas por país
+- Avaliar impacto de descontos nas vendas
+- Apoiar decisões estratégicas comerciais
 
 ---
 
@@ -53,4 +62,5 @@ Analisar o desempenho de vendas e identificar padrões por categoria, país, des
 
 ## 👨‍💻 Autor
 
-Thiago Sperate
+Thiago Sperate  
+Analista de Dados 😎
