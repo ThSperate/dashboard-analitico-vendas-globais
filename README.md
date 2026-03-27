@@ -6,7 +6,7 @@ Projeto desenvolvido em Power BI para análise de vendas globais, com foco na ge
 
 ![Dashboard de Vendas Globais](Lab1.png)
 
-📄 [Baixar versão em PDF](Lab1.pdf)
+📄 [Baixar versão em PDF](Lab01.pdf)
 
 ## 🎯 Objetivo
 
