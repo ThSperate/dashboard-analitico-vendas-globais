@@ -50,6 +50,8 @@ Este dashboard permite:
 * `Lab1.pdf` → Versão para visualização
 * `Lab1.png` → Imagem do dashboard
 
+Projeto desenvolvido com base em estudos do curso de Power BI da Data Science Academy (DSA), com adaptações, análises e interpretações próprias.
+
 ---
 
 ## 🛠️ Tecnologias Utilizadas
